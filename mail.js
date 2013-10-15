@@ -3,7 +3,7 @@ var config = require('./config.json');
 
 
 function sendMail(){
-  student = config.students.pop();
+  var student = config.students.pop();
 
   var smtpTransport = nodemailer.createTransport("SMTP",{
      service: "Gmail",
