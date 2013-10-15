@@ -1,0 +1,29 @@
+{
+  "students":[
+    {
+      "name": "Бородин Максим",
+      "group":"ПП-419",
+      "user": "st_m.k.borodin@mpt.ru",
+      "pass": "******"
+    },
+    {
+      "name": "Бородин Денис",
+      "group":"ПП-419",
+      "user": "st_d.k.borodin@mpt.ru",
+      "pass": "******"
+    },
+    {
+      "name": "Паршенцев Влад",
+      "group":"ПП-419",
+      "user": "st_v.a.parshentsev@mpt.ru",
+      "pass": "************"
+    }
+  ],
+
+  "teacher":{
+    "name": "Михаил Прищеп",
+    "mail": "MSPRISHEP@gmail.com",
+    "msg": "Присутствую",
+    "sbj": "Присутствую"
+  }
+}
